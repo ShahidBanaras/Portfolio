@@ -27087,12 +27087,12 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Alexandrie Grenier",
-    title: "Web Designer & Content Creator",
-    email: "alex@example.com",
+    name: "Shahid Banaras",
+    title: "Python experience, Cloud Computing, and Data Engineering enthusiast",
+    email: "shahidbanaras256@gmail.com",
     gitHub: "microsoft",
     instagram: "microsoft",
-    linkedIn: "satyanadella",
+    linkedIn: "shahidbanaras",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
@@ -27704,11 +27704,8 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                     marginTop: 0,
                     color: "white"
                 },
-                children: [
-                    "Created by ",
-                    name
-                ]
-            }, void 0, true, {
+                children: "Created by Shahid Banaras"
+            }, void 0, false, {
                 fileName: "src/Components/Footer.jsx",
                 lineNumber: 116,
                 columnNumber: 7
