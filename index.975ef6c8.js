@@ -28769,7 +28769,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+        description: "I have created my resume site, mentioning all my experinces and expertise and deployed it on GitHub Pages.",
         url: "https://github.com/ShahidBanaras/Portfolio.git"
     },
     {
