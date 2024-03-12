@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Image_5.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ETL process | Extract, transform, load data",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have worked on ETL process to extract data from different sources, transform it and load it into a database.",
+    url: "https://github.com/ShahidBanaras/ETL_process.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web scrapping | Automation",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This script utilizes Selenium and BeautifulSoup to scrape data from the Carrier Rate website and save it in JSON format.",
+    url: "https://github.com/ShahidBanaras/scrapping_project.git",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/ShahidBanaras/Portfolio.git",
   },
   {
     title: "GitHub Codespaces and github.dev",
